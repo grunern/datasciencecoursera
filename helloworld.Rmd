@@ -1,4 +1,9 @@
 ---
+output:
+  pdf_document: default
+  html_document: default
+---
+---
 title: "helloworld"
 author: "ME!"
 date: "01/09/2020"
